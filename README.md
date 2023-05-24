@@ -9,7 +9,7 @@ How to Install:
 
 
 
-1.Delete or move current bee mod files to somewhere not on your pc(trash can,hard drive,etc)
+ 1.Delete or move current bee mod files to somewhere not on your pc(trash can,hard drive,etc)
 
 2. Download Text file
 
