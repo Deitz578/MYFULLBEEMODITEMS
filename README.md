@@ -17,4 +17,4 @@ How to Install:
 
 4. Copy and Paste link in text file
 
-5. Download Folder in file link
+5. Download Main Folder in file link(aka download oly the folder that shows up)
